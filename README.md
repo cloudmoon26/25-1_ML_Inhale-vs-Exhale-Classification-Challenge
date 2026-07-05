@@ -32,7 +32,7 @@ steth_20180814_10_53_20_I_003,I
 
 The overall pipeline is shown below.
 
-![Breath Sound Classification Pipeline](image/breath_pipeline.png)
+![Breath Sound Classification Pipeline](image/breath_pipeline.jpg)
 
 The model pipeline consists of the following steps:
 
